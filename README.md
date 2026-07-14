@@ -24,3 +24,6 @@ This project was developed using IBM Cognos Analytics to analyze business data a
 
 ## Author
 Yeeshigaa H R
+
+## Dashboard
+![Dashboard](Screenshot%20(23).png)
